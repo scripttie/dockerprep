@@ -7,4 +7,7 @@ a simple guide for local dockerprep (win/linux/macos)
   
 helpful commands  
 1. docker info  
-2. docker ps
+2. docker ps  
+  
+### Learn more  
+Check out this guide; https://docs.docker.com/engine/docker-overview/#docker-engine
